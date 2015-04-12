@@ -1,4 +1,4 @@
-FROM liverbool/base
+FROM liverbool/docker-base
 
 MAINTAINER  Liverbool "nukboon@gmail.com"
 
